@@ -1,2 +1,3 @@
-You can use or modify this file with my reference.
-This is copyright@2016, Jakirullah
+This is copyright@2016, Jakirullah.
+You can use or modify this script with my reference.
+
