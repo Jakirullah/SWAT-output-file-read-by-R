@@ -1,2 +1,2 @@
 You can use or modify this file with my reference.
-This is copyright@Jakirullah in 2016
+This is copyright@2016, Jakirullah
